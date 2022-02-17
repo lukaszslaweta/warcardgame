@@ -40,7 +40,7 @@ class ViewController: UIViewController {
         //Compare the random Numbers
         if leftNumber > rightNumber {
             
-            //left side wins
+            //left side wins!
             leftScore += 1
             leftScoreLabel.text = String(leftScore)
             
